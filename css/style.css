@@ -148,7 +148,8 @@ body{
 }
 .menuitem
 {
-    color:#095EDB;
+    /*color:#095EDB;*/
+	color: white;
 }
 
 #BackgroundMenuPC
